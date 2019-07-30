@@ -2,14 +2,14 @@
   "name": "portfolio-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dbarochiya.github.io/me",
+  "homepage": "https://gungier.github.io/ReactPortfolio/",
   "dependencies": {
     "gh-pages": "^2.0.1",
+    "npm": "6.4.1",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-scripts": "2.1.5",
-    "travis": "^0.1.1",
-    "npm": "6.4.1"
+    "travis": "^0.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
